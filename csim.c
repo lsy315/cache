@@ -17,7 +17,6 @@
  * This is crucial for the driver to evaluate your work. 
  * 
  * Author: Iris Yuan
- * NYU netID: iy297
  */
 
 #include <stdlib.h>
