@@ -5,7 +5,6 @@
  * A transpose function is evaluated by counting the number of misses
  * on a 1KB direct mapped cache with a block size of 32 bytes.
  * Author: Iris Yuan
- * NetID: iy297
  * (note on style: in trans.c and csim.c, I comment using lower-case letters for readability.)
  */ 
 #include <stdio.h>
